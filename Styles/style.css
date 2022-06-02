@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(220, 220, 220);
+    font-family: sans-serif;
+    line-height: 26px;
+}
+
+.h1{
+    color: #6609fa !important;
+}
+
+.h3{
+    color: blue;
+}
+
+.content{
+    width: 50%;
+    float: left;
+}
+
+img{
+    margin-left: 35%;
+    height: 270px;
+}
+
+.btn {
+    color: white;
+    background-color: #6912f3;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.future {
+    float: right;
+    width: 50%;
+}
+
+.ture {
+    margin-right: 60%;
+}
+
+.experience {
+    padding: 10px;
+    border-left: 3px solid rgba(32, 18, 230, 0.2);
+}
+.container {
+    font-family: sans-serif;
+    line-height: 26px;
+    background-color: rgb(157, 192, 214);
+}
+
+aside {
+    float: right;
+    width: 30%;
+    background-color: rgb(220, 220, 220);
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.h2{
+    color: #6206f7 !important;
+    text-align: center;
+}
+
+.h4{
+    text-align: center;
+}

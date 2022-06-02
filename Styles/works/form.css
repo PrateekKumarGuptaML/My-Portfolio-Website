@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(229, 220, 228);
+}
+
+#div, #didiv, #di, #divi, #dive{
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rgb(214, 99, 111);
+    width: 42%;
+    margin-left: 30%;
+}
+
+fieldset{
+    width: 40%;
+    text-align: center;
+    background-color: rgb(213, 210, 210);
+    margin-left: 30%;
+}
+
+input{
+    text-align:center;
+}
+
+#final{
+    margin-left: 2%;
+}
